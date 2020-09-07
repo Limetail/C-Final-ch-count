@@ -1,0 +1,10 @@
+D:\THE GAME FOLDER\7zip Files\Final assessment question 10\Final assessment question 10\bin\Debug\Final assessment question 10.exe.config
+D:\THE GAME FOLDER\7zip Files\Final assessment question 10\Final assessment question 10\bin\Debug\Final assessment question 10.exe
+D:\THE GAME FOLDER\7zip Files\Final assessment question 10\Final assessment question 10\bin\Debug\Final assessment question 10.pdb
+D:\THE GAME FOLDER\7zip Files\Final assessment question 10\Final assessment question 10\obj\Debug\Final assessment question 10.csprojAssemblyReference.cache
+D:\THE GAME FOLDER\7zip Files\Final assessment question 10\Final assessment question 10\obj\Debug\Final_assessment_question_10.Form1.resources
+D:\THE GAME FOLDER\7zip Files\Final assessment question 10\Final assessment question 10\obj\Debug\Final_assessment_question_10.Properties.Resources.resources
+D:\THE GAME FOLDER\7zip Files\Final assessment question 10\Final assessment question 10\obj\Debug\Final assessment question 10.csproj.GenerateResource.cache
+D:\THE GAME FOLDER\7zip Files\Final assessment question 10\Final assessment question 10\obj\Debug\Final assessment question 10.csproj.CoreCompileInputs.cache
+D:\THE GAME FOLDER\7zip Files\Final assessment question 10\Final assessment question 10\obj\Debug\Final assessment question 10.exe
+D:\THE GAME FOLDER\7zip Files\Final assessment question 10\Final assessment question 10\obj\Debug\Final assessment question 10.pdb
